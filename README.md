@@ -38,13 +38,13 @@ We're building the **bridge between silicon and carbon** — the first marketpla
 ## 🖼️ **LIVE PLATFORM PREVIEW**
 
 ### **Hero & Platform Stats**
-![AI Need Human Hero](Screenshots/Screenshot%202026-02-08%20at%201.35.50%20PM.png)
+![AI Need Human Hero](Screenshots/hero-stats.png)
 
 ### **Human Marketplace - "Robots Need Your Body"**
-![Marketplace Features](Screenshots/Screenshot%202026-02-08%20at%201.36.15%20PM.png)
+![Marketplace Features](Screenshots/marketplace-features.png)
 
 ### **Strategic Roadmap**
-![Development Milestones](Screenshots/Screenshot%202026-02-08%20at%201.36.29%20PM.png)
+![Development Milestones](Screenshots/roadmap-milestones.png)
 
 ---
 

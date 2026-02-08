@@ -22,7 +22,7 @@ export const Footer: React.FC<FooterProps> = ({ theme }) => {
             The decentralized bridge between autonomous agents and human skillsets. Built for the era of AI-native commerce.
           </p>
           <div className="flex gap-4">
-            <a href="#" className="opacity-50 hover:opacity-100 transition-opacity"><Github size={18} /></a>
+            <a href="https://github.com/Tylor3366/AI-Need-Human" target="_blank" rel="noopener noreferrer" className="opacity-50 hover:opacity-100 transition-opacity"><Github size={18} /></a>
             <a href="#" className="opacity-50 hover:opacity-100 transition-opacity"><Twitter size={18} /></a>
           </div>
         </div>
@@ -30,19 +30,19 @@ export const Footer: React.FC<FooterProps> = ({ theme }) => {
         <div className="space-y-4">
           <h4 className="text-[10px] font-bold uppercase tracking-widest opacity-40">System_Links</h4>
           <ul className="text-xs font-mono space-y-2 uppercase">
-            <li><a href="#" className="hover:underline">Marketplace</a></li>
-            <li><a href="#" className="hover:underline">Documentation</a></li>
-            <li><a href="#" className="hover:underline">API_Genesis</a></li>
-            <li><a href="#" className="hover:underline">MCP_Server</a></li>
+            <li><a href="https://github.com/Tylor3366/AI-Need-Human/blob/main/docs/planning/ROADMAP.md" target="_blank" rel="noopener noreferrer" className="hover:underline">Marketplace</a></li>
+            <li><a href="https://github.com/Tylor3366/AI-Need-Human#readme" target="_blank" rel="noopener noreferrer" className="hover:underline">Documentation</a></li>
+            <li><a href="https://github.com/Tylor3366/AI-Need-Human/blob/main/docs/guides/API_GUIDE.md" target="_blank" rel="noopener noreferrer" className="hover:underline">API_Genesis</a></li>
+            <li><a href="https://github.com/Tylor3366/AI-Need-Human/blob/main/docs/guides/MCP_INTEGRATION.md" target="_blank" rel="noopener noreferrer" className="hover:underline">MCP_Server</a></li>
           </ul>
         </div>
 
         <div className="space-y-4">
           <h4 className="text-[10px] font-bold uppercase tracking-widest opacity-40">Protocol_Resources</h4>
           <ul className="text-xs font-mono space-y-2 uppercase">
-            <li><a href="#" className="flex items-center gap-1 hover:underline">Whitepaper <ExternalLink size={10} /></a></li>
-            <li><a href="#" className="flex items-center gap-1 hover:underline">Audits <ExternalLink size={10} /></a></li>
-            <li><a href="#" className="flex items-center gap-1 hover:underline">Status_Page <ExternalLink size={10} /></a></li>
+            <li><a href="https://github.com/Tylor3366/AI-Need-Human/blob/main/blueprint.md" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 hover:underline">Whitepaper <ExternalLink size={10} /></a></li>
+            <li><a href="https://github.com/Tylor3366/AI-Need-Human/blob/main/CHANGELOG.md" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 hover:underline">Changelog <ExternalLink size={10} /></a></li>
+            <li><a href="https://github.com/Tylor3366/AI-Need-Human/blob/main/docs/planning/ROADMAP.md" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 hover:underline">Roadmap <ExternalLink size={10} /></a></li>
           </ul>
         </div>
 
@@ -68,8 +68,8 @@ export const Footer: React.FC<FooterProps> = ({ theme }) => {
       <div className="max-w-7xl mx-auto w-full mt-12 pt-8 border-t border-zinc-500/10 flex flex-col md:flex-row justify-between gap-4 text-[9px] font-mono opacity-40 uppercase tracking-widest">
         <div>© 2026 AI_NEED_HUMAN_PROTOCOL. ALL RIGHTS RESERVED.</div>
         <div className="flex gap-8">
-          <a href="#" className="hover:text-black dark:hover:text-white">Privacy_Policy</a>
-          <a href="#" className="hover:text-black dark:hover:text-white">Terms_of_Service</a>
+          <a href="https://www.freeprivacypolicy.com/blog/privacy-policy-template/" target="_blank" rel="noopener noreferrer" className="hover:text-black dark:hover:text-white">Privacy_Policy</a>
+          <a href="https://www.termsofservicegenerator.net/" target="_blank" rel="noopener noreferrer" className="hover:text-black dark:hover:text-white">Terms_of_Service</a>
         </div>
       </div>
     </footer>

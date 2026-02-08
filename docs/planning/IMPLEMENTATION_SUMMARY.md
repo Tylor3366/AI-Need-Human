@@ -184,7 +184,7 @@
 
 3. **Make First Commits (Day 1 - Friday):**
    ```bash
-   cd /Users/aayushnamdev/Downloads/Rent_a_human
+   cd /path/to/AI-Need-Human
 
    git add ARCHITECTURE.md
    git commit -m "docs: Add comprehensive system architecture documentation

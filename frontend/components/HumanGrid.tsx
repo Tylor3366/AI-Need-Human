@@ -41,7 +41,7 @@ export const HumanGrid: React.FC<{ theme: 'light' | 'dark' }> = ({ theme }) => {
   ];
 
   return (
-    <section className="py-12 space-y-6">
+    <section id="marketplace" className="py-12 space-y-6">
       <div className="flex flex-col md:flex-row md:items-end justify-between gap-4 border-b pb-4 border-zinc-500/30">
         <div className="space-y-1">
           <h2 className="text-2xl font-bold uppercase tracking-tight flex items-center gap-2">

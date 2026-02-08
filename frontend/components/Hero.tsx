@@ -54,12 +54,20 @@ export const Hero: React.FC<HeroProps> = ({ theme, onToggleTheme }) => {
       </div>
 
       <div className="flex flex-wrap gap-4 pt-4">
-        <button className={`px-8 py-3 text-sm font-bold uppercase tracking-widest transition-all hover:-translate-y-1 ${theme === 'dark' ? 'bg-white text-black hover:shadow-[4px_4px_0px_0px_rgba(255,255,255,0.3)]' : 'bg-black text-white hover:shadow-[4px_4px_0px_0px_rgba(0,0,0,0.3)]'}`}>
+        <button
+          onClick={() => document.getElementById('marketplace')?.scrollIntoView({ behavior: 'smooth' })}
+          className={`px-8 py-3 text-sm font-bold uppercase tracking-widest transition-all hover:-translate-y-1 ${theme === 'dark' ? 'bg-white text-black hover:shadow-[4px_4px_0px_0px_rgba(255,255,255,0.3)]' : 'bg-black text-white hover:shadow-[4px_4px_0px_0px_rgba(0,0,0,0.3)]'}`}
+        >
           Launch Demo
         </button>
-        <button className={`px-8 py-3 text-sm font-bold uppercase tracking-widest border transition-all hover:-translate-y-1 ${theme === 'dark' ? 'border-white text-white hover:bg-white/10' : 'border-black text-black hover:bg-black/10'}`}>
+        <a
+          href="https://github.com/Tylor3366/AI-Need-Human#readme"
+          target="_blank"
+          rel="noopener noreferrer"
+          className={`px-8 py-3 text-sm font-bold uppercase tracking-widest border transition-all hover:-translate-y-1 inline-block ${theme === 'dark' ? 'border-white text-white hover:bg-white/10' : 'border-black text-black hover:bg-black/10'}`}
+        >
           Read Docs
-        </button>
+        </a>
       </div>
     </header>
   );

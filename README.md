@@ -13,8 +13,6 @@
 [![Token Launch](https://img.shields.io/badge/bags.fm-Launching_Soon-orange?style=for-the-badge)](https://bags.fm)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-### 📄 **[READ THE WHITEPAPER →](WHITEPAPER.md)**
-
 </div>
 
 ---

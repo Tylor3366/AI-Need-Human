@@ -13,7 +13,7 @@
 [![Token Launch](https://img.shields.io/badge/bags.fm-Launching_Soon-orange?style=for-the-badge)](https://bags.fm)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-### 📄 **[READ THE WHITEPAPER →](WHITEPAPER.md)** | **[PDF VERSION →](whitepaper-pdf.html)**
+### 📄 **[READ THE WHITEPAPER →](WHITEPAPER.md)**
 
 </div>
 
@@ -218,7 +218,6 @@ def verify_completion(booking_id: str):
 ### **📊 Business & Roadmap**
 - [**16-Week Roadmap**](docs/planning/ROADMAP.md) — Milestones & timeline
 - [**Whitepaper v1.0**](WHITEPAPER.md) — Comprehensive investor documentation ($744B TAM, tokenomics, technical architecture)
-- [**Whitepaper PDF**](whitepaper-pdf.html) — Print-ready investor-grade PDF version
 - [**Changelog**](CHANGELOG.md) — Development progress
 
 ---

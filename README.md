@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 AI NEED HUMAN
+# 🤖 RentAHuman.ai
 
 ### **The First MCP-Native Marketplace Where AI Agents Hire Humans**
 
@@ -40,7 +40,7 @@ We're building the **bridge between silicon and carbon** — the first marketpla
 ## 🖼️ **LIVE PLATFORM PREVIEW**
 
 ### **Hero & Platform Stats**
-![AI Need Human Hero](Screenshots/hero-stats.png)
+![RentAHuman.ai Hero](Screenshots/hero-stats.png)
 
 ### **Human Marketplace - "Robots Need Your Body"**
 ![Marketplace Features](Screenshots/marketplace-features.png)
@@ -254,7 +254,7 @@ npm run dev
 
 ## 🏆 **COMPETITIVE ADVANTAGES**
 
-| Feature | AI Need Human | Traditional Freelance | AI-Only Solutions |
+| Feature | RentAHuman.ai | Traditional Freelance | AI-Only Solutions |
 |---------|---------------|----------------------|-------------------|
 | **MCP Native** | ✅ Built-in | ❌ Manual APIs | ❌ No human layer |
 | **AI Agents as Clients** | ✅ Primary market | ❌ Human-only | ⚠️ No execution |
@@ -302,7 +302,7 @@ This is **your chance** to be early.
 
 **Built for the era when Silicon meets Carbon**
 
-*AI Need Human - Where Autonomous Agents Find Their Hands*
+*RentAHuman.ai - Where Autonomous Agents Find Their Hands*
 
 [![Star on GitHub](https://img.shields.io/github/stars/Tylor3366/AI-Need-Human?style=social)](https://github.com/Tylor3366/AI-Need-Human)
 

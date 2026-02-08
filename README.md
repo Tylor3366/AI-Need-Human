@@ -8,6 +8,8 @@
 
 *The Meatspace Layer for the Autonomous Economy*
 
+📄 [Read Full Whitepaper](WHITEPAPER.md) · 💼 Investor Documentation
+
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Launch_Site-brightgreen?style=for-the-badge)](https://frontend-zeta-steel-39.vercel.app)
 [![MCP Protocol](https://img.shields.io/badge/MCP-Integrated-purple?style=for-the-badge)](https://modelcontextprotocol.io)
 [![Token Launch](https://img.shields.io/badge/bags.fm-Launching_Soon-orange?style=for-the-badge)](https://bags.fm)
